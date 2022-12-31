@@ -1,5 +1,5 @@
 # Распознавание эмоций по выражению лица с помощью компьтерного зрения
-<p align="center"><img src="test_foto.jpg" width="500" alt="Valence-Arousal"></p>
+<p align="center"><img src="test_foto.jpg" width="1000" alt="Valence-Arousal"></p>
 
 ## Оглавление
 
@@ -40,7 +40,7 @@ resnet50
 Решения по каждой модели представлены в соответствующем названии модели ноутбуке. Предварительно нужно выполнить код в ноутбуке "data_analysis_and_creation_of_working_files.ipynb" для создания необходимых для обучения, тестирования и использования модели в прототипе приложений файлов.
 
 ## Результаты
-<p align="center"><img src="Результаты.jpg" width="500" alt="Valence-Arousal"></p>
+<p align="center"><img src="Результаты.jpg" width="1000" alt="Valence-Arousal"></p>
 
 ## Вывод
 

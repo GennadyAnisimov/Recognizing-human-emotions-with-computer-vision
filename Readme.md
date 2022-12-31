@@ -1,14 +1,14 @@
-# Распознавание эмоций по выражению лица с помощью компьтерного зрения
+# Распознавание эмоций по выражению лица с помощью компьютерного зрения
 <p align="center"><img src="test_foto.jpg" width="1000" ></p>
 
 ## Оглавление
 
 
-*  [О проекте](https://colab.research.google.com/drive/1NKz3HixkL4ZZEVWR5YH8LsELlry3THoU#scrollTo=ePNLZW1v9rO_).
-*   [Реализованные в проекте решения](https://colab.research.google.com/drive/1NKz3HixkL4ZZEVWR5YH8LsELlry3THoU#scrollTo=1Z1LZeWBML_9).
-* [Результаты](https://colab.research.google.com/drive/1NKz3HixkL4ZZEVWR5YH8LsELlry3THoU#scrollTo=tjBtUDvPLHGS).
-* [Вывод](https://colab.research.google.com/drive/1NKz3HixkL4ZZEVWR5YH8LsELlry3THoU#scrollTo=MtgDj9s0ZwZ4).
-* [Использование модели](https://colab.research.google.com/drive/1NKz3HixkL4ZZEVWR5YH8LsELlry3THoU#scrollTo=tpOpcUg5ahfW)
+*  [О проекте](#о-проекте)
+*   [Реализованные в проекте решения](#реализованные-в-проекте-решения)
+* [Результаты](#результаты)
+* [Вывод](#вывод)
+* [Использование модели](#использование-модели)
 
 
 
